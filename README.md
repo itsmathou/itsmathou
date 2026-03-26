@@ -8,7 +8,21 @@ I'm French, so my name is pronounced Ma-thild, not Mathilda. You can also call m
 **Brightspots** [Website](https://brightspots.dev/) / [AppStore](https://apps.apple.com/app/id6753994967)
 ![](https://github.com/itsmathou/brightspots/blob/main/resources/screenshots/English/iPad/Slice%201.png?raw=true)  
 An iOS application to help people building self confidence and self esteem.  
-Technologies used: UIKit, Apple's [Observation](https://developer.apple.com/documentation/Observation) framework, CloudKit ([CKSyncEngine](https://developer.apple.com/documentation/cloudkit/cksyncengine-5sie5)), [GRDB](https://github.com/groue/GRDB.swift/) (SQLite), [Tuist](https://github.com/tuist/tuist) to generate project and modularisation, Xcode Cloud (CI/CD), Swift Package Manager to manage dependencies.
+Technologies used:
+
+- UIKit
+- Apple's [Observation](https://developer.apple.com/documentation/Observation) framework
+- CloudKit ([CKSyncEngine](https://developer.apple.com/documentation/cloudkit/cksyncengine-5sie5))
+- [GRDB](https://github.com/groue/GRDB.swift/) (SQLite)
+- EventKit
+- UserNotifications (local notifications)
+- [SnapshotTesting](https://github.com/pointfreeco/swift-snapshot-testing/)
+
+DevEx:
+
+- [Tuist](https://github.com/tuist/tuist) to generate project and modularisation
+- Swift Package Manager to manage dependencies
+- Xcode Cloud (CI/CD)
 
 ## Previous employments
 
