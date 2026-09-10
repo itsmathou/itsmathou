@@ -9,7 +9,7 @@ Outside of work, I enjoy long walks outside of the city with my dog, baking and 
 ### Brightspots
 
 [Website](https://brightspots.dev/) / [App Store](https://apps.apple.com/app/id6753994967)
-![](https://github.com/itsmathou/brightspots/blob/main/resources/screenshots/English/iPad/Slice%201.png?raw=true)  
+![](https://github.com/itsmathou/itsmathou/blob/main/resources/Slice%201.png?raw=true)  
 An iOS application to help people building self confidence and self esteem.
 
 <ul><li>Technologies used:
@@ -31,7 +31,7 @@ An iOS application to help people building self confidence and self esteem.
 ### Thalia
 
 [Website](https://thalia.ing/) / [App Store](https://apps.apple.com/us/app/thalia-wishlists-gifts/id6765488236) / [Play Store](https://play.google.com/store/apps/details?id=com.alphalyrae.thalia)  
-![](https://github.com/itsmathou/giftyn-ios/blob/main/resources/banner.png?raw=true)
+![](https://github.com/itsmathou/itsmathou/blob/main/resources/banner.png?raw=true)
 This mobile application allows people to build private wishlists for any events of their life and share them with their friends and relatives.
 
 <ul><li> iOS:
@@ -72,11 +72,11 @@ This mobile application allows people to build private wishlists for any events 
 
 ## Publications
 
+- Thoughts about AI - Part 1: When I used Thalia as a “coding with AI playground” (September 2026 - [Substack](https://itsmathou.substack.com/p/thoughts-about-ai-part-1-when-i-used))
 - Lessons from a career break after engineering management (March 2026 - [Medium](https://medium.com/@mathilde.ferrand.coeurderoy/lessons-from-a-career-break-after-engineering-management-a9a1783d6be3))
 - What I wish I knew for my first year as a software engineer? (February 2020 - [Medium](https://blog.makersacademy.com/what-i-wish-i-knew-for-my-first-year-as-a-software-engineer-9481b290365d))
 - Embracing discomfort (September 2018 - [Medium](https://blog.makersacademy.com/embracing-discomfort-582d4aafc415))
 
-## Socials
+## Contact
 
-- Twitter/X: [bonjourmathou](https://x.com/bonjourmathou)
 - LinkedIn: [Mathilde Ferrand](https://www.linkedin.com/in/mathildeferrandcoeurderoy/)
